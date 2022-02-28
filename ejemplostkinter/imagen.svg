@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="img.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient886">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop882" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop884" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient851">
+      <stop
+         style="stop-color:#000080;stop-opacity:1"
+         offset="0"
+         id="stop847" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1"
+         offset="1"
+         id="stop849" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient836">
+      <stop
+         style="stop-color:#000080;stop-opacity:1"
+         offset="0"
+         id="stop840" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1"
+         offset="1"
+         id="stop842" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="radialGradient845"
+       cx="13.26325"
+       cy="13.163023"
+       fx="13.26325"
+       fy="13.163023"
+       r="13.346433"
+       gradientTransform="matrix(1,0,0,1.0025031,0,-0.03294812)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient851"
+       id="radialGradient855"
+       cx="13.26325"
+       cy="13.163023"
+       fx="13.26325"
+       fy="13.163023"
+       r="13.346433"
+       gradientTransform="matrix(1,0,0,1.0025031,0,-0.03294812)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient888"
+       x1="1.8181758"
+       y1="8.9357605"
+       x2="28.757601"
+       y2="8.9357605"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="220.10637"
+     inkscape:cy="-44.860677"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1350"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px"
+     height="100mm"
+     width="400in" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g866"
+       transform="matrix(3.9666431,0,0,3.9520095,0.24567463,1.0191197)">
+      <rect
+         style="fill:url(#radialGradient855);fill-opacity:1;stroke:url(#radialGradient845);stroke-width:0.3;stroke-linecap:square;stroke-linejoin:bevel;stroke-dashoffset:27.9383"
+         id="rect830"
+         width="26.392866"
+         height="26.459681"
+         x="0.06681738"
+         y="-0.06681738" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-linejoin:bevel;stroke-dashoffset:27.9383"
+         id="path857"
+         sodipodi:sides="5"
+         sodipodi:cx="13.096206"
+         sodipodi:cy="13.163024"
+         sodipodi:r1="10.429078"
+         sodipodi:r2="5.2145391"
+         sodipodi:arg1="0.86703451"
+         sodipodi:arg2="1.495353"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 19.844761,21.114292 13.489235,18.36273 7.6195184,22.038359 8.2724438,15.143614 2.9628713,10.697014 9.7219278,9.1873899 12.310148,2.7636113 15.834549,8.7253565 22.74373,9.2018434 18.162873,14.396029 Z"
+         inkscape:transform-center-x="0.24290531"
+         inkscape:transform-center-y="-0.76203905" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.13862px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:32.8853;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.203;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1.7062315"
+         y="5.3053741"
+         id="text863"
+         transform="matrix(0.75165879,0,0,1.3303909,0.28348214,1.5119048)"><tspan
+           x="1.7062315"
+           y="5.3053741"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:0.203;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Ejemplo Para </tspan></tspan><tspan
+           x="1.7062315"
+           y="10.478649"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:0.203;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">practica </tspan></tspan><tspan
+           x="1.7062315"
+           y="15.651924"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#000000;stroke-width:0.203;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">tkinter</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
